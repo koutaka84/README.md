@@ -1,7 +1,3 @@
-DAYHoge
-
-
-Hoge
 # Atsthm(アットシム)
 <animal that soothes the human mind>
 意味：人を癒す動物
