@@ -14,7 +14,8 @@
 ## 設計書
 
 ### 機能一覧
-https://app.diagrams.net/index.html#G1xa2SsLnbwCqa0cukrPNFrrdlIOjXXsa5
+スプレットシート：　https://docs.google.com/spreadsheets/d/1VKbMEY2r__tabf9UncmPqJ7uszlI_tyoOr9bAzLpa9k/edit#gid=0
+diagram：　https://app.diagrams.net/index.html#G1xa2SsLnbwCqa0cukrPNFrrdlIOjXXsa5
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
